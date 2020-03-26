@@ -1,8 +1,6 @@
 
 **/target
 
-*.jar
-
 *.war
 *.nar
 *.ear
@@ -10,6 +8,7 @@
 *.tar.gz
 *.rar
 
+dts-*.jar
 
 .idea/*
 
